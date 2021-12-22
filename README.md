@@ -1,4 +1,5 @@
 # TodoList
+A simple todo iOS app for increasing your productivity and keeping your to-do list.
 
 Here are some screenshots from this app:
 <p float="left">
